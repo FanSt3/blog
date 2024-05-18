@@ -1,5 +1,5 @@
 # Site settings
-title: FanSte Blog
+title: FanSte | Blog
 url: "http://fanst3.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -7,15 +7,14 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: jovisicstefan73@gmail.com
+author: FanSte
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
-#twitter_username: twitter_username
-#github_username:  github_username
+profile: Serbia, 17yo, interested in web security.
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:jovisicstefan73@gmail.com"
+  GitHub: "https://github.com/FanSt3"
+  Instagram: "https://instagram.com/stefke.j
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
@@ -27,9 +26,10 @@ excerpt_separator: <!--more-->
 
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
+    Home: /
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Category: /category/
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
